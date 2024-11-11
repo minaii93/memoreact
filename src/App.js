@@ -1,25 +1,30 @@
-import logo from './logo.svg';
 import './App.css';
+import Jatekter from './components/Jaterter';
+
+
+
+
 
 function App() {
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    
+      <div className="App">
+        <header className="App-header">
+          <h2>Memory game</h2>
+        </header>
+        <article>
+          <section className="kartyak">
+            <Jatekter />
+          </section>
+        </article>
+        <footer>
+          Minaei Hajnalka
+        </footer>
+      </div>
+
   );
 }
+
 
 export default App;

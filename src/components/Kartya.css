@@ -1,0 +1,14 @@
+.kartya {
+    width: 160px;
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(255,205,166);
+background: linear-gradient(144deg, rgba(255,205,166,1) 5%, rgba(249,199,220,1) 21%, rgba(182,174,244,1) 64%);
+    border: 0px solid #333;
+    border-radius: 5px;
+    font-size: 50px;
+    cursor: pointer;
+    box-shadow: 7px 7px 6px #212133 ;
+}
