@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/memoreact/static/css/main.31923a4f.css",
+    "main.js": "/memoreact/static/js/main.1ea65a2d.js",
+    "static/js/453.461f2b2c.chunk.js": "/memoreact/static/js/453.461f2b2c.chunk.js",
+    "index.html": "/memoreact/index.html",
+    "main.31923a4f.css.map": "/memoreact/static/css/main.31923a4f.css.map",
+    "main.1ea65a2d.js.map": "/memoreact/static/js/main.1ea65a2d.js.map",
+    "453.461f2b2c.chunk.js.map": "/memoreact/static/js/453.461f2b2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31923a4f.css",
+    "static/js/main.1ea65a2d.js"
+  ]
+}
