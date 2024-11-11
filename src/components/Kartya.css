@@ -11,4 +11,8 @@ background: linear-gradient(144deg, rgba(255,205,166,1) 5%, rgba(249,199,220,1) 
     font-size: 50px;
     cursor: pointer;
     box-shadow: 7px 7px 6px #212133 ;
+    flex: 1 1 calc(25% - 20px);
 }
+
+
+
